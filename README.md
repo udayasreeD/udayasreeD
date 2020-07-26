@@ -5,7 +5,7 @@ This is Udayasree.
 🔭 I’m currently working on Automation Testing.
 🌱 I’m currently learning PHP.
 
-Thanks.
+Thanks for visting.
 <!--
 **udayasreeD/udayasreeD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
